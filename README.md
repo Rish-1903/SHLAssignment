@@ -29,5 +29,5 @@ Install the required libraries:
     pip install openai-whisper transformers datasets librosa torch tqdm scikit-learn
     
 ## Output Result
-     0.504 at Kaggle 
-    Rank-11
+    0.504 at Kaggle 
+
